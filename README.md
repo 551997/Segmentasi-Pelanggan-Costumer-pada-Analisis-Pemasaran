@@ -8,4 +8,4 @@ Dataset ini merupakan data pelanggan (customers) yang terdiri dari 4 komponen ut
 
 Mari kita langsung masuk ke dalam Code yang telah dibuat.
 
-# Code ini dapat digunakan untuk keperluan pada Unsupervised Machine Learning lain.
+## Code ini dapat digunakan untuk keperluan pada Unsupervised Machine Learning lain.
